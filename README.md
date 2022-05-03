@@ -13,7 +13,7 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rena-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/889920249867173948/968993315443859496/Dogesponja.jpg">
+  <img align="right" alt="Rena-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/736621745510809680/971192465484828753/Dogesponja.jpg">
 </div>
   
   ##
