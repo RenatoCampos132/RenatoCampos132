@@ -2,8 +2,8 @@
  
 - Hoje "trabalho" com back-end
 - Estudando Python
-- Contate-me no email:RenatoCampos.dev@gmail.com
-- Pronomes:ele/dele
+- Contate-me no email: RenatoCampos.dev@gmail.com
+- Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/RenatoCampos132">
