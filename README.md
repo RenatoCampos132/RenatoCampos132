@@ -1,6 +1,6 @@
 ## Olá Mundo!
  
-- Hoje "trabalho" com back-end
+- Hoje me interesso por back-end
 - Estudando Python
 - Contate-me no email: RenatoCampos.dev@gmail.com
 - Pronomes: ele/dele
