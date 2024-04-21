@@ -1,9 +1,8 @@
 ## Olá Mundo!
  
-- Hoje me interesso por back-end
+- Me interesso por back-end
 - Estudando Python
 - Contate-me no email: RenatoCampos.dev@gmail.com
-- Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/RenatoCampos132">
@@ -13,7 +12,8 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rena-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/736621745510809680/971192465484828753/Dogesponja.jpg">
+  <img align="right" alt="Rena-pic" height="90" src="https://i.pinimg.com/564x/a4/8a/45/a48a45b038991a7bb43fa803d9a9e601.jpg">
+ 
 </div>
   
   ##
